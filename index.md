@@ -2,44 +2,48 @@
 layout: default
 ---
 
-## About Me
+<div class="intro">
+<div class="intro-text" markdown="1">
+I am currently a postdoctoral researcher within the [Text and Language Lab](https://www.dhss.phil.fau.de/text-and-language-lab/) at the [Department of Digital Humanities and Social Studies](https://www.dhss.phil.fau.de/) at the Friedrich-Alexander-University Erlangen-Nuremberg. I completed my PhD at McGill University at the Department of Languages, Literatures, and Cultures where I was advised by [Andrew Piper](https://andrewpiper.ai/). I have a Master's degree from the University of Vienna in Comparative Literature.
 
-<img class="profile-picture" src="sherlock.jpg">
+My research uses machine learning to study narrative and culture. I work on questions around fictional worlds and setting, narrative absorbtion, embodiment, and metaphor across large text collections, combining NLP, text annotation, and quantitative methods. I am particularly interested in applying large language models to explore storytelling patterns, narrative form, and narrative communication. I also build open research infrastructures such as annotated corpora and bibliographic datasets.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+[CV](cv_updated.pdf) / [Email](mailto:katrin.rohrbacher@fau.de) / [Bluesky](https://bsky.app/profile/katrohrbacher.bsky.social)
+</div>
+<div class="intro-photo">
+<div class="profile-picture"><img src="work_pic_hp2.jpg"></div>
+<p class="photo-credit">Photo: Ismail Barakat</p>
+</div>
+</div>
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## News
 
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+<div class="news-scroll"><div class="news-list" markdown="1">
+- 07/2026 <span class="news-tag talk">Talk</span><span class="news-tag paper">Paper</span> Long paper at DH 2026, South Korea: "Towards the Automatic Detection of Animal Metaphors in Literary Texts"
+- 04/2026 <span class="news-tag talk">Talk</span> COMPTEXT 2026, University of Birmingham: "Modeling Embodiment in Narratives"
+- 2026 <span class="news-tag paper">Paper</span> "Bridging the Gaps: Integrating Bibliographic Metadata Into Wikidata for Literary Corpora", *Journal of Open Humanities Data*
+- 01/2026 <span class="news-tag talk">Talk</span> Invited talk, University of Bielefeld: "Measuring Narrative Space: A Computational Study of German and English Prose Fiction"
+- 11/2025 <span class="news-tag talk">Talk</span> Invited talk, University of Hamburg, DH Lecture Series: "Aspects of Space: Quantitative Evidence and Fictional Worlds"
+</div></div>
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+**Rohrbacher, K.**, Wagner, A., Mahlberg, M. (2026). "Letting the Cat out of the Bag": Towards the Automatic Detection of Animal Metaphors in Literary Texts. *Book of Abstracts of the DH 2026*, ADHO Annual Conference, South Korea. Forthcoming.
 
-## Typography
+**Rohrbacher, K.** (2026). "Lived Space": A Computational Study of Setting in Fiction. In: B. Herrmann, G. Grisot, R. Aust (eds.), *Comparing Landscapes. Approaches to Space and Affect in Literary Fiction*. Bielefeld University Press. Forthcoming.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Mahlberg, M. & **Rohrbacher, K.** (2026). Corpora in Digital Humanities and Corpus Linguistics. In: H. Nesi & P. Milin (eds.), *International Encyclopedia of Language and Linguistics* (3rd ed.). Elsevier, pp. 62–68. [https://doi.org/10.1016/B978-0-323-95504-1.01548-9](https://doi.org/10.1016/B978-0-323-95504-1.01548-9)
 
-Here is a table
+**Rohrbacher, K.** & Schrittesser, D. (2026). Bridging the Gaps: Integrating Bibliographic Metadata Into Wikidata for Literary Corpora. *Journal of Open Humanities Data*, 12(1), 37. [https://doi.org/10.5334/johd.483](https://doi.org/10.5334/johd.483)
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+**Rohrbacher, K.** (2025). Opening Worlds: Narrative Beginnings and the Role of Setting. *CCLS2025 Conference Preprints*, 4(1). [https://doi.org/10.26083/tuprints-00030149](https://doi.org/10.26083/tuprints-00030149)
 
-Here is a horizontal rule
+**Rohrbacher, K.** (2025). de-Corp: A Corpus of German Fiction and Non-Fiction (1780–1930). *Journal of Open Humanities Data*, 11(1), 51. [https://doi.org/10.5334/johd.350](https://doi.org/10.5334/johd.350)
 
----
+Luederitz, C., Animesh, A., **Rohrbacher, K.**, Li, T., Piper, A., Potvin, C., & Etzion, D. (2023). Non-monetary narratives motivate businesses to engage with climate change. *Sustainability Science*, 18(6), 2649–2660. [https://doi.org/10.1007/s11625-023-01386-1](https://doi.org/10.1007/s11625-023-01386-1)
 
-Here is a blockquote
+## Teaching & Advising
 
-> To a great mind, nothing is little
+At FAU Erlangen-Nuremberg, I currently teach **Computing Text and Language** and **Critical AI** (Summer 2026), as well as **Computational Approaches to Storytelling** (Winter 2025/26). Previously, I taught **Modern Short Fiction** (2024), **The German Novel** (2023), and **German Language** at beginner and intermediate levels (2018–2024) at McGill University.
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+I co-advise MA theses on topics in computational humanities. Current and recent advisees include Marius Lin ("Framing of Political Discourse in Online Forums", 2025–) and Jan-Oliver Reincke ("Climate Change Narratives in Video Game Storytelling: A Text-Based Computational Study of Emotion", 2025–2026).
