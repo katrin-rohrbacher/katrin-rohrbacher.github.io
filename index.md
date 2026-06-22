@@ -42,8 +42,26 @@ Mahlberg, M. & **Rohrbacher, K.** (2026). Corpora in Digital Humanities and Corp
 
 Luederitz, C., Animesh, A., **Rohrbacher, K.**, Li, T., Piper, A., Potvin, C., & Etzion, D. (2023). Non-monetary narratives motivate businesses to engage with climate change. *Sustainability Science*, 18(6), 2649–2660. [https://doi.org/10.1007/s11625-023-01386-1](https://doi.org/10.1007/s11625-023-01386-1)
 
-## Teaching & Advising
+## Teaching
 
-At FAU Erlangen-Nuremberg, I currently teach **Computing Text and Language** and **Critical AI** (Summer 2026), as well as **Computational Approaches to Storytelling** (Winter 2025/26). Previously, I taught **Modern Short Fiction** (2024), **The German Novel** (2023), and **German Language** at beginner and intermediate levels (2018–2024) at McGill University.
+In Summer 2026, I am teaching two courses at FAU Erlangen-Nuremberg.
 
-I co-advise MA theses on topics in computational humanities. Current and recent advisees include Marius Lin ("Framing of Political Discourse in Online Forums", 2025–) and Jan-Oliver Reincke ("Climate Change Narratives in Video Game Storytelling: A Text-Based Computational Study of Emotion", 2025–2026).
+**Computing Text and Language (Seminar & Lab, co-taught with Marianna Grachova).** An introduction to digital humanities and the computational analysis of text. The course moves from foundations in linguistic analysis through corpus methods to quantitative techniques such as stylometry, sentiment analysis, topic modeling, and network analysis, with hands-on work in Python. Students learn both how to apply these methods and how to interpret their results critically.
+
+**Critical AI (Seminar).** The seminar approaches AI from a (digital) humanities perspective. Reading literary fiction alongside critical scholarship, the course examines how language-based AI systems work, how they shape interpretation and knowledge production, and the ethical questions they raise. It combines critical and theoretical discussion with some hands-on sessions.
+
+In Winter 2025/26, I taught:
+
+**Computational Approaches to Storytelling (Seminar).** The seminar offers an introduction to narrative as an object of computational study: how stories work as structures, frames, and strategies for meaning-making. Material ranges from literary fiction to different kinds of online data. The course covers conceptual and computational modeling of narrative, from dataset creation to the interpretation of results.
+
+Previously, at McGill University, I taught seminars on **Modern Short Fiction** (2024) and **The German Novel** (2023). I also taught **German Language** courses at beginner and intermediate levels (2018–2024).
+
+## Advising
+
+I co-advise MA theses on topics in computational humanities.
+
+Current and recent advisees include:
+
+Marius Lin, MA-thesis: "Framing of Political Discourse in Online Forums", FAU Erlangen-Nuremberg, 2025–
+
+Jan-Oliver Reincke, MA-thesis: "Climate Change Narratives in Video Game Storytelling: A Text-Based Computational Study of Emotion", FAU Erlangen-Nuremberg, 2025–2026.
