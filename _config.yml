@@ -1,9 +1,14 @@
 title: Katrin Rohrbacher
+description: "Katrin Rohrbacher is a postdoctoral researcher in the Text and Language Lab at the Department of Digital Humanities and Social Studies, Friedrich-Alexander-University Erlangen-Nuremberg, working on machine learning approaches to narrative and culture."
+author: Katrin Rohrbacher
 url: "https://katrin-rohrbacher.github.io"
 baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
+
+plugins:
+  - jekyll-sitemap
 
 tracking_id: #
 
