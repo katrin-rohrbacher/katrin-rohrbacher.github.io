@@ -48,13 +48,13 @@ Luederitz, C., Animesh, A., **Rohrbacher, K.**, Li, T., Piper, A., Potvin, C., &
 
 ## Teaching
 
-Summer 2026 (FAU Erlangen-Nuremberg): I taught two courses.
+Summer 2026 (FAU Erlangen-Nuremberg):
 
 **Computing Text and Language (Seminar & Lab, co-taught with Marianna Grachova).** An introduction to digital humanities and the computational analysis of text. The course moves from foundations in linguistic analysis through corpus methods to quantitative techniques such as stylometry, sentiment analysis, topic modeling, and network analysis, with hands-on work in Python. Students learn both how to apply these methods and how to interpret their results critically.
 
 **Critical AI (Seminar).** The seminar approaches AI from a (digital) humanities perspective. Reading literary fiction alongside critical scholarship, the course examines how language-based AI systems work, how they shape interpretation and knowledge production, and the ethical questions they raise. It combines critical and theoretical discussion with some hands-on sessions.
 
-Winter 2025/26 (FAU Erlangen-Nuremberg): I taught:
+Winter 2025/26 (FAU Erlangen-Nuremberg):
 
 **Computational Approaches to Storytelling (Seminar).** The seminar offers an introduction to narrative as an object of computational study: how stories work as structures, frames, and strategies for meaning-making. Material ranges from literary fiction to different kinds of online data. The course covers conceptual and computational modeling of narrative, from dataset creation to the interpretation of results.
 
