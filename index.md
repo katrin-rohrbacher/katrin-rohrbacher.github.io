@@ -19,6 +19,7 @@ My research uses machine learning to study narrative and culture. I work on ques
 ## News
 
 <div class="news-scroll"><div class="news-list" markdown="1">
+- 08/2026 <span class="news-tag paper">Paper</span> Paper accepted at EMNLP 2026 (Main Conference): "How LLMs Build Fictional Worlds: Measuring Setting and Narrative Space in AI-Generated Creative Storytelling"
 - 08/2026 <span class="news-tag grant">Grant</span> Awarded the FAU Emergent Talents Initiative (ETI) Grant for the project "Nature in Motion: A Computational Study of Environmental Representation in Travel Writing"
 - 07/2026 <span class="news-tag talk">Talk</span><span class="news-tag paper">Paper</span> Long paper at DH 2026, South Korea: "Towards the Automatic Detection of Animal Metaphors in Literary Texts"
 - 04/2026 <span class="news-tag talk">Talk</span> COMPTEXT 2026, University of Birmingham: "Modeling Embodiment in Narratives"
@@ -29,7 +30,9 @@ My research uses machine learning to study narrative and culture. I work on ques
 
 ## Publications
 
-**Rohrbacher, K.**, Wagner, A., Mahlberg, M. (2026). "Letting the Cat out of the Bag": Towards the Automatic Detection of Animal Metaphors in Literary Texts. *Book of Abstracts of the DH 2026*, ADHO Annual Conference, South Korea. Forthcoming.
+**Rohrbacher, K.**, Nieth, B., Salin, E., Eskofier, B., Mahlberg, M. (2026). How LLMs Build Fictional Worlds: Measuring Setting and Narrative Space in AI-Generated Creative Storytelling. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. To appear.
+
+**Rohrbacher, K.**, Wagner, A., Mahlberg, M. (2026). "Letting the Cat out of the Bag": Towards the Automatic Detection of Animal Metaphors in Literary Texts. *Book of Abstracts of the DH 2026*, ADHO Annual Conference, South Korea, pp. 685–688. [https://doi.org/10.5281/zenodo.21495909](https://doi.org/10.5281/zenodo.21495909)
 
 **Rohrbacher, K.** (2026). "Lived Space": A Computational Study of Setting in Fiction. In: B. Herrmann, G. Grisot, R. Aust (eds.), *Comparing Landscapes. Approaches to Space and Affect in Literary Fiction*. Bielefeld University Press. Forthcoming.
 
