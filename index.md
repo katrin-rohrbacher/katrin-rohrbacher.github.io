@@ -54,7 +54,7 @@ In Summer 2026, I taught two courses at FAU Erlangen-Nuremberg.
 
 **Critical AI (Seminar).** The seminar approaches AI from a (digital) humanities perspective. Reading literary fiction alongside critical scholarship, the course examines how language-based AI systems work, how they shape interpretation and knowledge production, and the ethical questions they raise. It combines critical and theoretical discussion with some hands-on sessions.
 
-In Winter 2025/26, I taught:
+In Winter 2025/26, I taught at FAU Erlangen-Nuremberg:
 
 **Computational Approaches to Storytelling (Seminar).** The seminar offers an introduction to narrative as an object of computational study: how stories work as structures, frames, and strategies for meaning-making. Material ranges from literary fiction to different kinds of online data. The course covers conceptual and computational modeling of narrative, from dataset creation to the interpretation of results.
 
