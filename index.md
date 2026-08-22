@@ -32,13 +32,13 @@ My research uses machine learning to study narrative and culture. I work on ques
 
 **Rohrbacher, K.**, Nieth, B., Salin, E., Eskofier, B., Mahlberg, M. (2026). How LLMs Build Fictional Worlds: Measuring Setting and Narrative Space in AI-Generated Creative Storytelling. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. To appear.
 
+**Rohrbacher, K.** & Schrittesser, D. (2026). Bridging the Gaps: Integrating Bibliographic Metadata Into Wikidata for Literary Corpora. *Journal of Open Humanities Data*, 12(1), 37. [https://doi.org/10.5334/johd.483](https://doi.org/10.5334/johd.483)
+
 **Rohrbacher, K.**, Wagner, A., Mahlberg, M. (2026). "Letting the Cat out of the Bag": Towards the Automatic Detection of Animal Metaphors in Literary Texts. *Book of Abstracts of the DH 2026*, ADHO Annual Conference, South Korea, pp. 685–688. [https://doi.org/10.5281/zenodo.21495909](https://doi.org/10.5281/zenodo.21495909)
 
 **Rohrbacher, K.** (2026). "Lived Space": A Computational Study of Setting in Fiction. In: B. Herrmann, G. Grisot, R. Aust (eds.), *Comparing Landscapes. Approaches to Space and Affect in Literary Fiction*. Bielefeld University Press. Forthcoming.
 
 Mahlberg, M. & **Rohrbacher, K.** (2026). Corpora in Digital Humanities and Corpus Linguistics. In: H. Nesi & P. Milin (eds.), *International Encyclopedia of Language and Linguistics* (3rd ed.). Elsevier, pp. 62–68. [https://doi.org/10.1016/B978-0-323-95504-1.01548-9](https://doi.org/10.1016/B978-0-323-95504-1.01548-9)
-
-**Rohrbacher, K.** & Schrittesser, D. (2026). Bridging the Gaps: Integrating Bibliographic Metadata Into Wikidata for Literary Corpora. *Journal of Open Humanities Data*, 12(1), 37. [https://doi.org/10.5334/johd.483](https://doi.org/10.5334/johd.483)
 
 **Rohrbacher, K.** (2025). Opening Worlds: Narrative Beginnings and the Role of Setting. *CCLS2025 Conference Preprints*, 4(1). [https://doi.org/10.26083/tuprints-00030149](https://doi.org/10.26083/tuprints-00030149)
 
@@ -48,7 +48,7 @@ Luederitz, C., Animesh, A., **Rohrbacher, K.**, Li, T., Piper, A., Potvin, C., &
 
 ## Teaching
 
-In Summer 2026, I am teaching two courses at FAU Erlangen-Nuremberg.
+In Summer 2026, I taught two courses at FAU Erlangen-Nuremberg.
 
 **Computing Text and Language (Seminar & Lab, co-taught with Marianna Grachova).** An introduction to digital humanities and the computational analysis of text. The course moves from foundations in linguistic analysis through corpus methods to quantitative techniques such as stylometry, sentiment analysis, topic modeling, and network analysis, with hands-on work in Python. Students learn both how to apply these methods and how to interpret their results critically.
 
@@ -66,6 +66,6 @@ I co-advise MA theses on topics in computational humanities.
 
 Current and recent advisees include:
 
-Marius Lin, MA-thesis: "Framing of Political Discourse in Online Forums", FAU Erlangen-Nuremberg, 2025–
+Marius Lin, MA-thesis: "Framing of Political Discourse in Online Forums", FAU Erlangen-Nuremberg, 2025–2026.
 
 Jan-Oliver Reincke, MA-thesis: "Climate Change Narratives in Video Game Storytelling: A Text-Based Computational Study of Emotion", FAU Erlangen-Nuremberg, 2025–2026.
