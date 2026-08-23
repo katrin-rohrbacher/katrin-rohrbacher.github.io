@@ -46,6 +46,10 @@ Mahlberg, M. & **Rohrbacher, K.** (2026). Corpora in Digital Humanities and Corp
 
 Luederitz, C., Animesh, A., **Rohrbacher, K.**, Li, T., Piper, A., Potvin, C., & Etzion, D. (2023). Non-monetary narratives motivate businesses to engage with climate change. *Sustainability Science*, 18(6), 2649–2660. [https://doi.org/10.1007/s11625-023-01386-1](https://doi.org/10.1007/s11625-023-01386-1)
 
+### In Preparation (Invited Contributions)
+
+Mahlberg, M. & **Rohrbacher, K.** (in preparation). [Chapter title to be confirmed]. In: *The Oxford Handbook of Language and Masculinities*. Invited chapter, under contract.
+
 ## Teaching
 
 Summer 2026 (FAU Erlangen-Nuremberg):
