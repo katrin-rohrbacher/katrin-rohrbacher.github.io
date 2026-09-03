@@ -30,7 +30,7 @@ My research uses machine learning to study narrative and culture. I work on ques
 
 ## Publications
 
-**Rohrbacher, K.**, Nieth, B., Salin, E., Eskofier, B., Mahlberg, M. (2026). How LLMs Build Fictional Worlds: Measuring Setting and Narrative Space in AI-Generated Creative Storytelling. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. To appear.
+**Rohrbacher, K.**, Nieth, B., Salin, E., Eskofier, B., Mahlberg, M. (2026). How LLMs Build Fictional Worlds: Measuring Setting and Narrative Space in AI-Generated Creative Storytelling. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. To appear. Preprint: [https://doi.org/10.48550/arXiv.2609.02482](https://doi.org/10.48550/arXiv.2609.02482)
 
 **Rohrbacher, K.** & Schrittesser, D. (2026). Bridging the Gaps: Integrating Bibliographic Metadata Into Wikidata for Literary Corpora. *Journal of Open Humanities Data*, 12(1), 37. [https://doi.org/10.5334/johd.483](https://doi.org/10.5334/johd.483)
 
