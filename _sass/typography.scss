@@ -1,6 +1,7 @@
 @import "vars";
 
 .content {
+    overflow-wrap: break-word;
     a:hover {
         text-decoration: underline;
     }
@@ -101,5 +102,33 @@
         &.paper { background: #E8740C; }
         &.talk  { background: #5BA4CF; }
         &.grant { background: #5C9E5C; }
+    }
+
+    /* Mobile: stack the intro, and drop justification which looks
+       ragged once the column gets narrow. */
+    @media (max-width: 600px) {
+        text-align: left;
+
+        .intro {
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+        }
+        .intro-photo {
+            order: -1;
+            text-align: center;
+            margin-top: 0;
+        }
+        .profile-picture {
+            height: 215px;
+            width: 160px;
+        }
+        .photo-credit {
+            float: none;
+            text-align: center;
+        }
+        .news-scroll {
+            max-height: 300px;
+        }
     }
 }
