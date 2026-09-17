@@ -8,7 +8,7 @@ I am currently a postdoctoral researcher within the [Text and Language Lab](http
 
 My research uses machine learning to study narrative and culture. I work on questions around fictional worlds and setting, narrative absorption, embodiment, and metaphor across large text collections, combining NLP, text annotation, and quantitative methods. I also approach questions surrounding AI from a humanities perspective, using computational methods to study how these systems work with language and narrative. Alongside this, I build open research infrastructure. I have compiled and published large literary corpora for others to reuse, and developed open, reproducible methods for integrating bibliographic metadata into Wikidata. I am also interested in annotation as a research practice, and in developing tools to support it.
 
-[CV](cv_updated.pdf) / [Email](mailto:katrin.rohrbacher@fau.de) / [Bluesky](https://bsky.app/profile/katrohrbacher.bsky.social)
+[CV](rohrbacher_cv_web.pdf) / [Email](mailto:katrin.rohrbacher@fau.de) / [Bluesky](https://bsky.app/profile/katrohrbacher.bsky.social)
 </div>
 <div class="intro-photo">
 <div class="profile-picture"><img src="work_pic_hp2.jpg"></div>
