@@ -20,7 +20,7 @@ My research uses machine learning to study narrative and culture. I work on ques
 
 <div class="news-scroll"><div class="news-list" markdown="1">
 - 12/2026 <span class="news-tag talk">Talk</span> Invited talk, University of Bamberg, English Linguistics Research Seminar: "Reading with Machines, Reading Machines: LLMs and Corpora in the Analysis of Literary Language"
-- 10/2026 <span class="news-tag talk">Talk</span><span class="news-tag paper">Paper</span> Paper accepted at the Conference on Computational Humanities Research (CHR) 2027: "Modeling Embodiment in Narrative Fiction"
+- 10/2026 <span class="news-tag talk">Talk</span><span class="news-tag paper">Paper</span> Long paper accepted at the Conference on Computational Humanities Research (CHR) 2027: "Modeling Embodiment in Narrative Fiction"
 - 10/2026 <span class="news-tag talk">Talk</span><span class="news-tag paper">Paper</span> Paper accepted at the Annual Conference of the Association for Digital Humanities in the German-Speaking Areas (DHd) 2027: "Auf den Spuren des Chronotopos: Genre und räumlicher Ausdruck in Märchen-, Kriminal- und Abenteuerliteratur"
 - 08/2026 <span class="news-tag talk">Talk</span><span class="news-tag paper">Paper</span> Long paper accepted at EMNLP 2026 (Main Conference): "How LLMs Build Fictional Worlds: Setting and Narrative Space in AI-Generated Creative Storytelling"
 - 08/2026 <span class="news-tag grant">Grant</span> Awarded the FAU Emergent Talents Initiative (ETI) Grant for the project "Nature in Motion: A Computational Study of Environmental Representation in Travel Writing"
@@ -33,7 +33,7 @@ My research uses machine learning to study narrative and culture. I work on ques
 
 ## Publications
 
-**Rohrbacher, K.**, Reincke, J., Mahlberg, M. (2027). Modeling Embodiment in Narrative Fiction. *Conference on Computational Humanities Research (CHR) 2027*. Accepted.
+**Rohrbacher, K.**, Reincke, J., Mahlberg, M. (2027). Modeling Embodiment in Narrative Fiction. *Conference on Computational Humanities Research (CHR) 2027*. Long paper, accepted.
 
 **Rohrbacher, K.** (2027). Auf den Spuren des Chronotopos: Genre und räumlicher Ausdruck in Märchen-, Kriminal- und Abenteuerliteratur. *Annual Conference of the Association for Digital Humanities in the German-Speaking Areas (DHd) 2027*. Accepted.
 
