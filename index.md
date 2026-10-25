@@ -19,6 +19,8 @@ My research uses machine learning to study narrative and culture. I work on ques
 ## News
 
 <div class="news-scroll"><div class="news-list" markdown="1">
+- 10/2026 <span class="news-tag paper">Paper</span> Paper accepted at the Conference on Computational Humanities Research (CHR) 2027: "Modeling Embodiment in Narrative Fiction"
+- 10/2026 <span class="news-tag paper">Paper</span> Paper accepted at DHd 2027: "Auf den Spuren des Chronotopos: Genre und räumlicher Ausdruck in Märchen-, Kriminal- und Abenteuerliteratur"
 - 08/2026 <span class="news-tag talk">Talk</span><span class="news-tag paper">Paper</span> Long paper accepted at EMNLP 2026 (Main Conference): "How LLMs Build Fictional Worlds: Measuring Setting and Narrative Space in AI-Generated Creative Storytelling"
 - 08/2026 <span class="news-tag grant">Grant</span> Awarded the FAU Emergent Talents Initiative (ETI) Grant for the project "Nature in Motion: A Computational Study of Environmental Representation in Travel Writing"
 - 07/2026 <span class="news-tag talk">Talk</span><span class="news-tag paper">Paper</span> Long paper at DH 2026, South Korea: "Towards the Automatic Detection of Animal Metaphors in Literary Texts"
@@ -29,6 +31,10 @@ My research uses machine learning to study narrative and culture. I work on ques
 </div></div>
 
 ## Publications
+
+**Rohrbacher, K.**, Reincke, J., Mahlberg, M. (2027). Modeling Embodiment in Narrative Fiction. *Conference on Computational Humanities Research (CHR) 2027*. Accepted.
+
+**Rohrbacher, K.** (2027). Auf den Spuren des Chronotopos: Genre und räumlicher Ausdruck in Märchen-, Kriminal- und Abenteuerliteratur. *DHd 2027*. Accepted.
 
 **Rohrbacher, K.**, Nieth, B., Salin, E., Eskofier, B., Mahlberg, M. (2026). How LLMs Build Fictional Worlds: Measuring Setting and Narrative Space in AI-Generated Creative Storytelling. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. To appear. Preprint: [https://doi.org/10.48550/arXiv.2609.02482](https://doi.org/10.48550/arXiv.2609.02482)
 
