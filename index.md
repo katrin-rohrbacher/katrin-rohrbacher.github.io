@@ -43,7 +43,7 @@ My research uses machine learning to study narrative and culture. I work on ques
 
 **Rohrbacher, K.**, Wagner, A., Mahlberg, M. (2026). "Letting the Cat out of the Bag": Towards the Automatic Detection of Animal Metaphors in Literary Texts. *Book of Abstracts of the DH 2026*, ADHO Annual Conference, South Korea, pp. 685–688. [https://doi.org/10.5281/zenodo.21495909](https://doi.org/10.5281/zenodo.21495909)
 
-**Rohrbacher, K.** (2026). "Lived Space": A Computational Study of Setting in Fiction. In: B. Herrmann, G. Grisot, R. Aust (eds.), *Comparing Landscapes. Approaches to Space and Affect in Literary Fiction*. Bielefeld University Press. Forthcoming.
+**Rohrbacher, K.** (2026). "Lived Space": A Computational Study of Setting in Fiction. In: B. Herrmann, G. Grisot, R. Aust (eds.), *Comparing Landscapes. Approaches to Space and Affect in Literary Fiction*. Bielefeld University Press. Forthcoming. [[Preprint]](papers/rohrbacher_lived_space_preprint.pdf)
 
 Mahlberg, M. & **Rohrbacher, K.** (2026). Corpora in Digital Humanities and Corpus Linguistics. In: H. Nesi & P. Milin (eds.), *International Encyclopedia of Language and Linguistics* (3rd ed.). Elsevier, pp. 62–68. [https://doi.org/10.1016/B978-0-323-95504-1.01548-9](https://doi.org/10.1016/B978-0-323-95504-1.01548-9)
 
