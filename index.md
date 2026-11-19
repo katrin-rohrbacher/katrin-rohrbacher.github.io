@@ -55,7 +55,7 @@ Luederitz, C., Animesh, A., **Rohrbacher, K.**, Li, T., Piper, A., Potvin, C., &
 
 ### In Preparation (Invited Contributions)
 
-Mahlberg, M. & **Rohrbacher, K.** (in preparation). [Chapter title to be confirmed]. In: *The Oxford Handbook of Language and Masculinities*. Invited chapter, under contract.
+Mahlberg, M. & **Rohrbacher, K.** (in preparation). Writing Male Bodies: Embodiment, Gender and Character Agency in Austen, Dickens and the 19th Century Novel. In: *The Oxford Handbook of Language and Masculinities*. Invited chapter, under contract.
 
 Mahlberg, M. & **Rohrbacher, K.** (in preparation). Textual Patterns of Embodiment and Worldbuilding in Crime Fiction. In: *Handbook of Language and Crime*. Bloomsbury. Invited chapter.
 
